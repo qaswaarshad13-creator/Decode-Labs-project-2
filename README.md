@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="Screenshot 2026-06-30 172251" src="https://github.com/user-attachments/assets/b61ff823-c762-4713-9dd7-35f5e608f589" />
+
 # Decodelab project 2
 # Project 2: Iris Flower Classification using K-Nearest Neighbors (KNN)
 
